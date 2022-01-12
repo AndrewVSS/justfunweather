@@ -1,4 +1,2 @@
-aiogram
-asyncio
 pyowm
-telebot
+pyTelegramBotAPI
