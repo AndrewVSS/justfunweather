@@ -1,5 +1,5 @@
 import pyowm
-import pyTelegramBotAPI
+import telebot
 
 from pyowm.owm import OWM
 from pyowm.utils.config import get_default_config
