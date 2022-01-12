@@ -1,2 +1,2 @@
-pyowm
-telebot
+pip3 install PyTelegramBotAPI
+pip3 install pyowm
