@@ -31,7 +31,7 @@ def send_echo(message):
 		bot.send_message(message.chat.id, answer)
 
 	except:
-    		bot.send_message(message.chat.id,'Ошибка! Город не найден.')
+    		bot.send_message(message.chat.id,'Введите название города или страны')
 
 
 bot.polling( none_stop = True )
